@@ -14,8 +14,8 @@ day2PartTwo.SafeReports();
 
 //Day3
 AdventCode2024.Day3.PartOne day3PartOne = new AdventCode2024.Day3.PartOne();
-//AdventCode2024.Day3.PartTwo day3PartTwo = new AdventCode2024.Day3.PartTwo();
+AdventCode2024.Day3.PartTwo day3PartTwo = new AdventCode2024.Day3.PartTwo();
 day3PartOne.CalculateMultiplications();
-//day3PartTwo.SafeReports();
+day3PartTwo.CalculateMultiplications();
 
 

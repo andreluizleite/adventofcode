@@ -23,6 +23,8 @@ namespace AdventCode2024.Day3
                 total += num1 * num2;
             }
 
+            Console.WriteLine($"Day 3, One: {total}");
+
             return total;
         }
 
