@@ -18,4 +18,10 @@ AdventCode2024.Day3.PartTwo day3PartTwo = new AdventCode2024.Day3.PartTwo();
 day3PartOne.CalculateMultiplications();
 day3PartTwo.CalculateMultiplications();
 
+//Day4
+AdventCode2024.Day4.PartOne day4PartOne = new AdventCode2024.Day4.PartOne();
+AdventCode2024.Day4.PartTwo day4PartTwo = new AdventCode2024.Day4.PartTwo();
+day4PartOne.CeresSearch();
+day4PartTwo.CeresSearch();
+
 
