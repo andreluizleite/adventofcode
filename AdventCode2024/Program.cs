@@ -24,4 +24,10 @@ AdventCode2024.Day4.PartTwo day4PartTwo = new AdventCode2024.Day4.PartTwo();
 day4PartOne.CeresSearch();
 day4PartTwo.CeresSearch();
 
+//Day5
+AdventCode2024.Day5.PartOne day5PartOne = new AdventCode2024.Day5.PartOne();
+AdventCode2024.Day5.PartTwo day5PartTwo = new AdventCode2024.Day5.PartTwo();
+day5PartOne.PrintQueue();
+day5PartTwo.PrintQueue();
+
 
